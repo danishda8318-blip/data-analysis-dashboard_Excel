@@ -51,6 +51,7 @@ Merged all pivot tables into a single interactive dashboard and applied slicers 
 
 
 ## dashboard screenshot,
+<img width="1366" height="692" alt="Screenshot 2025-11-30 142211" src="https://github.com/user-attachments/assets/f6303c67-0883-431d-9310-d358e2c59eeb" />
 
 
 ## Project Insights
