@@ -1,7 +1,8 @@
 # Vrinda Store Sales Analysis Dashboard (2022)
 ## Objective
 To analyze Vrinda Store’s 2022 sales data by creating interactive dashboards and tables in Excel, enabling data-driven insights through structured data processing, cleaning, and visualization.
-**Dataset:** Raw data will be uploaded soon. The link will be added here.
+## Dataset:
+https://github.com/danishda8318-blip/data-analysis-dashboard_Excel/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
 
 
 ## Questions
