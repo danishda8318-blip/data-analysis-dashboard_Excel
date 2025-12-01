@@ -29,6 +29,7 @@ Which sales channel contributed the most to overall sales?
 Which product category had the highest sales?
 
 ## dashboard link
+https://github.com/danishda8318-blip/data-analysis-dashboard_Excel/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx
 
 
 ## process
